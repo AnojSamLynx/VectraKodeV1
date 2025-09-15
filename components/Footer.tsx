@@ -41,9 +41,9 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="text-sm font-semibold text-gray-200 tracking-wider uppercase">Contact</h3>
             <ul className="mt-4 space-y-2 text-gray-400">
-              <li>123 Tech Avenue, Silicon Valley, CA 94000</li>
+              <li>Como, 6152, Western Australia</li>
               <li>contact@vectrakode.com</li>
-              <li>+1 (555) 123-4567</li>
+              <li>+61 489 200 283</li>
             </ul>
           </div>
         </div>

@@ -41,9 +41,9 @@ const Contact: React.FC = () => {
                     <div className="bg-gray-800 p-8 rounded-lg">
                         <h3 className="text-2xl font-bold text-white mb-6">Contact Information</h3>
                         <div className="space-y-4 text-gray-300">
-                            <p><strong>Address:</strong> 123 Tech Avenue, Silicon Valley, CA 94000</p>
+                            <p><strong>Address:</strong> Como, 6152, Western Australia</p>
                             <p><strong>Email:</strong> contact@vectrakode.com</p>
-                            <p><strong>Phone:</strong> +1 (555) 123-4567</p>
+                            <p><strong>Phone:</strong> +61 489 200 283</p>
                         </div>
                         <div className="mt-8 rounded-lg overflow-hidden">
                           <img src="https://picsum.photos/600/400?grayscale" alt="Map" className="w-full h-auto"/>
