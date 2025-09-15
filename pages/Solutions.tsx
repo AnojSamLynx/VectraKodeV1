@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { CheckCircleIcon } from '../components/icons';
 
@@ -16,21 +15,21 @@ const solutions: Solution[] = [
     tagline: 'The Future of Learning, Simplified.',
     description: 'An intuitive and powerful Learning Management System designed to facilitate online education, corporate training, and professional development. Engage learners with interactive content and track progress seamlessly.',
     features: ['Custom Course Creation', 'Interactive Quizzes & Assessments', 'Progress Tracking & Analytics', 'Certification & Gamification'],
-    imageUrl: 'https://picsum.photos/seed/lms/600/400'
+    imageUrl: 'https://live.staticflickr.com/65535/54785971816_76df78dd25_w.jpg'
   },
   {
     name: 'VectraWorkforce',
     tagline: 'Empower Your Team, Optimize Your Workflow.',
     description: 'A comprehensive workforce management tool that streamlines HR processes, from employee onboarding to performance management. Enhance productivity and collaboration across your organization.',
     features: ['Employee Lifecycle Management', 'Time & Attendance Tracking', 'Performance Reviews', 'Automated Payroll Sync'],
-    imageUrl: 'https://picsum.photos/seed/workforce/600/400'
+    imageUrl: 'https://live.staticflickr.com/65535/54785971851_6c74bf9464_w.jpg'
   },
   {
     name: 'VectraEshop',
     tagline: 'Your Vision, Your Store, Our Technology.',
     description: 'A scalable and feature-rich e-commerce platform that allows you to build a stunning online store. From startups to enterprises, VectraEshop provides the tools you need to sell online effectively.',
     features: ['Customizable Storefronts', 'Secure Payment Gateway Integration', 'Inventory Management', 'Advanced Sales Analytics'],
-    imageUrl: 'https://picsum.photos/seed/eshop/600/400'
+    imageUrl: 'https://live.staticflickr.com/65535/54786217068_3e5946655b_w.jpg'
   },
 ];
 
